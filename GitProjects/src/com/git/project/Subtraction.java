@@ -8,8 +8,9 @@ public class Subtraction {
 		int b = 20;
 
 		int subtraction = b - a;
+		int addition = a + b;
 
 		System.out.println("Subtraction is>> " + subtraction);
-
+		System.out.println("Addition is  => " + addition);
 	}
 }
